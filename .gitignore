@@ -1,0 +1,5 @@
+# Project exclude paths
+/common/target/
+/model/target/
+/service/service-online-video/target/
+/service/service-user/target/
